@@ -1,6 +1,6 @@
 <h1 align="center">🎮 Esdras Fonseca Gonçalves</h1>
 <p align="center">
-  <em>Estudante de ADS na UNA Contagem | Dev focado em Java e Portugol</em>
+  <em>Estudante de ADS na UNA Contagem | Dev focado em Java </em>
 </p>
 
 ---
