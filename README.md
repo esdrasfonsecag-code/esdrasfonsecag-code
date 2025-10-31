@@ -10,7 +10,7 @@
 ![Portugol](https://img.shields.io/badge/Portugol-75%25-blue)
 ![Python](https://img.shields.io/badge/Python-0%25-lightgrey)
 ![SQL](https://img.shields.io/badge/SQL-0%25-lightgrey)
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-0%25-lightgrey)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-16.29%25-orange)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0%25-lightgrey)
 
 ---
