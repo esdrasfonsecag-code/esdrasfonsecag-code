@@ -12,7 +12,6 @@ I love **technology** and enjoy creating solutions in **Java**, while learning m
 I speak **intermediate English** and **fluent Spanish**, which helps me connect with people from different backgrounds.  
 I’m focused on improving my skills and growing as a developer every day.  
 
-
 ---
 
 ## 🧩 Skills
@@ -51,5 +50,7 @@ I’m focused on improving my skills and growing as a developer every day.
 ---
 
 <p align="center">
-  <em>“Discipline is the power that turns purpose into results.”</em>
+  🚀
+  <em>“Discipline is the power that turns purpose into results.”</em>  
+  🚀
 </p>
