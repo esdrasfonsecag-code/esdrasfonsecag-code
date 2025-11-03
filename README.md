@@ -1,11 +1,11 @@
 <h1 align="center">🎮 Esdras Fonseca Gonçalves</h1>
 <p align="center">
-  <em>Estudante de ADS na UNA Contagem | Dev focado em Java </em>
+  <em>ADS Student at UNA Contagem | Java-Focused Developer</em>
 </p>
 
 ---
 
-## 🧩 Habilidades
+## 🧩 Skills
 ![Java](https://img.shields.io/badge/Java-81.26%25-brightgreen)
 ![Portugol](https://img.shields.io/badge/Portugol-2.45%25-blue)
 ![Python](https://img.shields.io/badge/Python-0%25-lightgrey)
@@ -15,30 +15,30 @@
 
 ---
 
-## 🏆 Conquistas
-- 🎓 Início do curso de ADS na UNA Contagem  
-- 💪 Disciplina e foco renovados em 2025  
-- 📘 Desenvolvimento de exercícios e projetos práticos em Java e Portugol  
+## 🏆 Achievements
+- 🎓 Started my ADS degree at UNA Contagem  
+- 💪 Renewed discipline and focus in 2025  
+- 📘 Developing practical exercises and projects in Java and Portugol  
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=esdrasfonsecag-code&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasfonsecag-code&layout=compact&theme=radical)
 
 ---
 
-## 🗺️ Missões
-✅ Exercícios em Java • ⏳ Segurança da Informação • ⏳ Inteligência Artificial
+## 🗺️ Missions
+✅ Java Exercises • ⏳ Information Security • ⏳ Artificial Intelligence
 
 ---
 
-## 🔗 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esdras-fonseca-7358a0282/)
-[![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail)](mailto:esdrasfonsecag@gmail.com)
+## 🔗 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esdras-fonseca-7358a0282/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:esdrasfonsecag@gmail.com)
 
 ---
 
 <p align="center">
-  <em>“Disciplina é o poder que transforma propósito em resultado.”</em>
+  <em>“Discipline is the power that turns purpose into results.”</em>
 </p>
