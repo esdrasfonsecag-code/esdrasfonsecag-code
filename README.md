@@ -6,11 +6,18 @@
 ---
 
 ## 🧠 About Me
-Hello! I'm **Esdras**, a student of Systems Analysis and Development (ADS) at **UNA Contagem**, Brazil.  
+Hi! I'm **Esdras**, a student of Systems Analysis and Development (ADS) at **UNA Contagem**, Brazil.  
 
-I'm passionate about **technology** and **building efficient solutions in Java**, while exploring **Information Security** and **Artificial Intelligence**.  
-I speak **intermediate English** and **fluent Spanish**, which allows me to collaborate with people and projects from different cultures.  
-My goal is to grow as a developer through discipline, consistency, and real-world practice.
+I love **technology** and enjoy creating solutions in **Java**, while learning more about **Information Security** and **Artificial Intelligence**.  
+I speak **intermediate English** and **fluent Spanish**, which helps me connect with people from different backgrounds.  
+I’m focused on improving my skills and growing as a developer every day.  
+
+**(PT-BR)**  
+Oi! Sou **Esdras**, estudante de Análise e Desenvolvimento de Sistemas (ADS) na **UNA Contagem**, Brasil.  
+
+Adoro **tecnologia** e gosto de criar soluções em **Java**, enquanto aprendo mais sobre **Segurança da Informação** e **Inteligência Artificial**.  
+Falo **inglês intermediário** e **espanhol fluente**, o que me ajuda a me conectar com pessoas de diferentes culturas.  
+Estou focado em melhorar minhas habilidades e evoluir como desenvolvedor a cada dia.
 
 ---
 
