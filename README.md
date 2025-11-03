@@ -12,12 +12,6 @@ I love **technology** and enjoy creating solutions in **Java**, while learning m
 I speak **intermediate English** and **fluent Spanish**, which helps me connect with people from different backgrounds.  
 I’m focused on improving my skills and growing as a developer every day.  
 
-**(PT-BR)**  
-Oi! Sou **Esdras**, estudante de Análise e Desenvolvimento de Sistemas (ADS) na **UNA Contagem**, Brasil.  
-
-Adoro **tecnologia** e gosto de criar soluções em **Java**, enquanto aprendo mais sobre **Segurança da Informação** e **Inteligência Artificial**.  
-Falo **inglês intermediário** e **espanhol fluente**, o que me ajuda a me conectar com pessoas de diferentes culturas.  
-Estou focado em melhorar minhas habilidades e evoluir como desenvolvedor a cada dia.
 
 ---
 
