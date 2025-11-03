@@ -42,8 +42,8 @@ My goal is to grow as a developer through discipline, consistency, and real-worl
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esdras-fonseca-7358a0282/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:esdrasfonsecag@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Esdras%2C%20I%20found%20your%20profile%20on%20GitHub...)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/5531982900762?text=Hello%20Esdras%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20get%20in%20touch!)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:esdrasfonsecag@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Esdras%2C%20I%20found%20your%20profile%20on%20GitHub...)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/5531982900762?text=Hello%20Esdras%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20get%20in%20touch!)
 
 ---
 
