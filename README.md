@@ -1,7 +1,14 @@
 <h1 align="center">🎮 Esdras Fonseca Gonçalves</h1>
 <p align="center">
-  <em>ADS Student at UNA Contagem | Java-Focused Developer</em>
+  <em>Computer Science Student | Java-Focused Developer | Lifelong Learner</em>
 </p>
+
+---
+
+## 🧠 About Me
+Hello! I'm **Esdras**, a student of Systems Analysis and Development (ADS) at **UNA Contagem**, Brazil.  
+I’m passionate about **building efficient solutions in Java**, exploring **Information Security**, and learning **Artificial Intelligence**.  
+My goal is to grow as a developer through discipline, consistency, and real-world practice.
 
 ---
 
@@ -18,7 +25,7 @@
 ## 🏆 Achievements
 - 🎓 Started my ADS degree at UNA Contagem  
 - 💪 Renewed discipline and focus in 2025  
-- 📘 Developing practical exercises and projects in Java and Portugol  
+- 📘 Developing hands-on projects and exercises in Java and Portugol  
 
 ---
 
@@ -28,12 +35,12 @@
 
 ---
 
-## 🗺️ Missions
-✅ Java Exercises • ⏳ Information Security • ⏳ Artificial Intelligence
+## 🚀 Roadmap
+✅ Java Exercises • ⏳ Information Security • ⏳ Artificial Intelligence  
 
 ---
 
-## 🔗 Contact
+## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esdras-fonseca-7358a0282/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:esdrasfonsecag@gmail.com)
 
