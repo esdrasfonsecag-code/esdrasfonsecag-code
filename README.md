@@ -6,7 +6,7 @@
 ---
 
 ## 🧩 Habilidades
-![Java](https://img.shields.io/badge/Java-81.26%25-brightgreen)
+![Java](https://img.shields.io/badge/Java-81.29%25-brightgreen)
 ![Portugol](https://img.shields.io/badge/Portugol-2.45%25-blue)
 ![Python](https://img.shields.io/badge/Python-0%25-lightgrey)
 ![SQL](https://img.shields.io/badge/SQL-0%25-lightgrey)
