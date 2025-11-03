@@ -37,7 +37,7 @@ I’m focused on improving my skills and growing as a developer every day.
 
 ---
 
-## 🚀 Roadmap
+## 🎯 Roadmap
 ✅ Java Exercises • ⏳ Information Security • ⏳ Artificial Intelligence  
 
 ---
