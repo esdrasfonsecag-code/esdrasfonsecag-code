@@ -1,6 +1,6 @@
 <h1 align="center">🎮 Esdras Fonseca Gonçalves</h1>
 <p align="center">
-  <em>Computer Science Student | Java-Focused Developer | Lifelong Learner</em>
+  <em>Systems Analysis and Development (ADS) | Java-Focused Developer | Lifelong Learner</em>
 </p>
 
 ---
