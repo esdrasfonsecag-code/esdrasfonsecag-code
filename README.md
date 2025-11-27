@@ -35,7 +35,6 @@ Focused on **discipline, continuous learning, and growth** as a developer every 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=esdrasfonsecag-code&theme=radical" alt="GitHub Streak"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=esdrasfonsecag-code&theme=react-dark" alt="Activity Graph"/>
 </div>
 
 ---
