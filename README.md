@@ -41,9 +41,8 @@ Focused on **discipline, continuous learning, and growth** as a developer every 
 ---
 
 ## 🏆 Projects in Focus
-<!-- Essa seção será atualizada automaticamente pelo workflow -->
-<div id="projects">
 <!-- Projects will be injected here by GitHub Action -->
+<div id="projects">
 </div>
 
 ---
