@@ -40,12 +40,6 @@ Focused on **discipline, continuous learning, and growth** as a developer every 
 
 ---
 
-## 🏆 Projects in Focus
-<!-- Projects will be injected here by GitHub Action -->
-<div id="projects">
-</div>
-
----
 
 ## 🎯 Roadmap
 <div align="center">
