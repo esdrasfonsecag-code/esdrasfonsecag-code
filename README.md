@@ -40,10 +40,11 @@ Focused on **discipline, continuous learning, and growth** as a developer every 
 
 ---
 
-## 🏆 Achievements
-- 🎓 Started ADS degree at UNA Contagem  
-- 💪 Renewed focus and discipline in 2025  
-- 📘 Building hands-on projects in Java and Portugol  
+## 🏆 Projects in Focus
+<!-- Essa seção será atualizada automaticamente pelo workflow -->
+<div id="projects">
+<!-- Projects will be injected here by GitHub Action -->
+</div>
 
 ---
 
