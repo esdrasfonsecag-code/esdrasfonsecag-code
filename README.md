@@ -1,17 +1,17 @@
 <h1 align="center">🎮 Esdras Fonseca Gonçalves</h1>
 <p align="center">
-  <em>Systems Analysis and Development (ADS) | Java Developer | Lifelong Learner</em>
+  <em>ADS Student | Java Developer | Lifelong Learner</em>
 </p>
 
 ---
 
 ## 🧠 About Me
-Hi! I'm **Esdras**, a student of Systems Analysis and Development (ADS) at **UNA Contagem**, Brazil.  
+Hi! I'm **Esdras**, a student of **Systems Analysis and Development (ADS)** at **UNA Contagem**, Brazil.  
 
-I enjoy building **solutions in Java** while exploring **Information Security** and **Artificial Intelligence**.  
-I’m fluent in **Spanish** and have **intermediate English**.  
+I love creating **solutions in Java** and exploring **Information Security** and **Artificial Intelligence**.  
+Fluent in **Spanish** and intermediate in **English**, I connect with people worldwide.  
 
-I focus on **continuous learning**, **discipline**, and growing as a developer every day.  
+Focused on **discipline, continuous learning, and growth** as a developer every day.  
 
 ---
 
@@ -27,22 +27,23 @@ I focus on **continuous learning**, **discipline**, and growing as a developer e
 
 ---
 
-## 🏆 Achievements
-- 🎓 Started my ADS degree at UNA Contagem  
-- 💪 Renewed focus and discipline in 2025  
-- 📘 Building hands-on projects in Java and Portugol  
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=esdrasfonsecag-code&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasfonsecag-code&layout=compact&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esdrasfonsecag-code&theme=radical" alt="GitHub Streak"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=esdrasfonsecag-code&theme=react-dark" alt="Activity Graph"/>
+</div>
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/esdrasfonsecag-code">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=esdrasfonsecag-code&show_icons=true&theme=radical&hide_border=true"/>
-  </a>
-  <a href="https://github.com/esdrasfonsecag-code">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasfonsecag-code&layout=compact&theme=radical"/>
-  </a>
-</div>
+## 🏆 Achievements
+- 🎓 Started ADS degree at UNA Contagem  
+- 💪 Renewed focus and discipline in 2025  
+- 📘 Building hands-on projects in Java and Portugol  
 
 ---
 
@@ -58,10 +59,10 @@ I focus on **continuous learning**, **discipline**, and growing as a developer e
   <a href="https://www.linkedin.com/in/esdras-fonseca-7358a0282/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:esdrasfonsecag@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Esdras">
+  <a href="mailto:esdrasfonsecag@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://wa.me/5531982900762?text=Hello%20Esdras">
+  <a href="https://wa.me/5531982900762">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp"/>
   </a>
 </div>
